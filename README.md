@@ -2,7 +2,7 @@
 </p>
 
 
-# Data Structures & Algorithms in Kotlin
+# Essential Python For Data Science
 
-Welcome to **DSA.kt** – your destination for learning and mastering **Data Structures & Algorithms in Kotlin**. Whether you're a beginner or exploring advanced topics, we provide clear explanations, practical examples, and real-world problem-solving strategies.
+Welcome to **PyForDs** – your destination for learning and mastering **Data Structures & Algorithms in Kotlin**. Whether you're a beginner or exploring advanced topics, we provide clear explanations, practical examples, and real-world problem-solving strategies.
 
