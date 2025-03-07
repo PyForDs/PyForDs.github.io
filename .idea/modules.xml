@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/dsakt.iml" filepath="$PROJECT_DIR$/.idea/dsakt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PyForDs.iml" filepath="$PROJECT_DIR$/.idea/PyForDs.iml" />
     </modules>
   </component>
 </project>
