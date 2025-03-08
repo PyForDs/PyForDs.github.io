@@ -31,20 +31,22 @@ markup:
 
 params:
   project:
-    startYear: 2024
-    presentYear: 2024
+    startYear: 2025
+    presentYear: 2025
     github:
-      repo: /DSAKT/dsakt.github.io
+      repo: /PyForDs/PyForDs.github.io
     themeColor:
       light: '#ffffff'
       dark: '#101010'
 
   author:
-    name: K M Rejowan Ahmmed
-    url: https://github.com/ahmmedrejowan
+    name: Ann Naser Nabil
+    url: https://github.com/AnnNaserNabil
+
+
 
   home:
-    heading: Data Structures and Algorithms
-    headingSegment2: in Kotlin
-    description: A collection of Data Structures and Algorithms implemented in Kotlin.
+    heading: Essential Python
+    headingSegment2: For Data Science
+    description: A collection of Data Structures and Algorithms implemented in Python.
     getStartedPath: /docs
